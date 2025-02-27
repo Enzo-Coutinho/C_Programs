@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740608845 source:c:\github\c_programs\matrizes\exercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+
