@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740784771 source:c:\github\c_programs\strings\exercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
