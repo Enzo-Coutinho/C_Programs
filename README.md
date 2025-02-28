@@ -4,6 +4,18 @@ This repository contains exercises of a Book "Linguagem C completa e descomplica
 
 ## ***Fault exercises***
 
+Section 7.4
+- 5
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+
 Section 6.7.1
 -  10
 -  15
