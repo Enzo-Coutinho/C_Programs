@@ -2,7 +2,7 @@
 
 This repository contains exercises of a Book "Linguagem C completa e descomplicada".
 
-## ***Fault exercises***
+## ***Missing exercises***
 
 Section 8.5
 - 8
