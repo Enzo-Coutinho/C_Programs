@@ -45,6 +45,3 @@ Section 5.9
 
 Section 4.7
 - all
-
-Section 3.11
-- all
