@@ -48,6 +48,3 @@ Section 4.7
 
 Section 3.11
 - all
-
-Section 2.6
-- all
