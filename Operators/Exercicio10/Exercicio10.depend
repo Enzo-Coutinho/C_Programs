@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740880765 source:c:\github\c_programs\operators\exercicio10\main.c
+	<stdio.h>
+	<stdlib.h>
+
