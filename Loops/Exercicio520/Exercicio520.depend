@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1740337891 source:c:\github\c_programs\exercicio520\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1741026678 source:c:\github\c_programs\loops\exercicio520\main.c
+	<stdio.h>
+	<stdlib.h>
+
