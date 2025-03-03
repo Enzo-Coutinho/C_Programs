@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740954517 source:c:\github\c_programs\conditionals\exercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
