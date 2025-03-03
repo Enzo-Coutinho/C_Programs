@@ -42,6 +42,3 @@ Section 5.9
 - 17
 - 19
 - 20
-
-Section 4.7
-- all
