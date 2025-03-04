@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741119609 source:c:\github\c_programs\functions\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741121600 source:c:\github\c_programs\functions\exercicio8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
