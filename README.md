@@ -4,6 +4,10 @@ This repository contains exercises of a Book "Linguagem C completa e descomplica
 
 ## ***Missing exercises***
 
+Section 9.
+
+- All
+
 Section 8.5
 - 8
 - 10
