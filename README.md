@@ -1,6 +1,8 @@
 # **C exercises**
 
-This repository contains exercises of a Book "Linguagem C completa e descomplicada".
+This repository contains a collection of exercises based on the book "Linguagem C Completa e Descomplicada" by André Backes. The exercises aim to provide a hands-on learning experience for mastering C programming by solving practical problems and challenges.
+
+The content in this repository is structured around the concepts and examples covered in the book, ranging from basic topics such as variables, loops, and functions, to more advanced subjects like pointers, memory management, and file handling. Each exercise is designed to reinforce the theoretical knowledge presented in the book and help users develop strong programming skills in C.
 
 ## ***Missing exercises***
 
